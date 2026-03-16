@@ -1,12 +1,12 @@
 {
   "ads_enabled": true,
-  "ad_priority": "admob",
+  "ad_priority": "ironsource",  // غيّر الأولوية إلى IronSource
   "admob": {
     "enabled": false,
-    "banner_enabled": true,
-    "interstitial_enabled": true,
-    "banner_id": "ca-app-pub-6369463662612526/4621483276",
-    "interstitial_id": "ca-app-pub-6369463662612526/4338210922"
+    "banner_enabled": false,     // عطّل البانر أيضاً
+    "interstitial_enabled": false, // عطّل الإنترستيشل أيضاً
+    "banner_id": "ca-app-pub-6369463662612526/46214832761",
+    "interstitial_id": "ca-app-pub-6369463662612526/43382109221"
   },
   "ironsource": {
     "enabled": true,
