@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "ad_priority": "admob",
   "admob": {
-    "enabled": true,
+    "enabled": false,
     "banner_enabled": true,
     "interstitial_enabled": true,
     "banner_id": "ca-app-pub-6369463662612526/46214832761",
