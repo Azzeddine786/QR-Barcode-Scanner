@@ -1,24 +1,24 @@
 {
-  "ads_enabled": true,
+  "ads_enabled": false,
   "ad_priority": "admob",
   "admob": {
     "enabled": true,
     "banner_enabled": false,
     "interstitial_enabled": true,
-    "app_open_enabled": true,
+    "app_open_enabled": false,
     "admob_banner_id": "ca-app-pub-6369463662612526/4621483276",
     "interstitial_id": "ca-app-pub-6369463662612526/4338210922",
     "app_open_id": "ca-app-pub-6369463662612526/9239183819"
   },
   "ironsource": {
-    "enabled": true,
+    "enabled": false,
     "interstitial_enabled": true,
     "app_key": "16dbb63dd"
   },
   "startapp": {
-    "enabled": true,
+    "enabled": false,
     "banner_enabled": true,
-    "app_id": ""
+    "app_id": "202974047"
   },
   "display_rules": {
     "show_banner_main": true,
