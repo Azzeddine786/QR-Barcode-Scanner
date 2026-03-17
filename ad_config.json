@@ -6,9 +6,9 @@
     "banner_enabled": false,
     "interstitial_enabled": true,
     "app_open_enabled": true,
-    "banner_id": "ca-app-pub-6369463662612526/46214832761",
-    "interstitial_id": "ca-app-pub-6369463662612526/43382109221",
-    "app_open_id": "ca-app-pub-6369463662612526/92391838191"
+    "banner_id": "ca-app-pub-6369463662612526/4621483276",
+    "interstitial_id": "ca-app-pub-6369463662612526/4338210922",
+    "app_open_id": "ca-app-pub-6369463662612526/9239183819"
   },
   "ironsource": {
     "enabled": true,
