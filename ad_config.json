@@ -1,26 +1,27 @@
 {
-  "ads_enabled": true,
-  "ad_priority": "ironsource",  // غيّر الأولوية إلى IronSource
+  "ads_enabled": false,
+  "ad_priority": "admob",
   "admob": {
     "enabled": false,
-    "banner_enabled": false,     // عطّل البانر أيضاً
-    "interstitial_enabled": false, // عطّل الإنترستيشل أيضاً
+    "banner_enabled": false,
+    "interstitial_enabled": false,
+    "app_open_enabled": false,
     "banner_id": "ca-app-pub-6369463662612526/46214832761",
-    "interstitial_id": "ca-app-pub-6369463662612526/43382109221"
+    "interstitial_id": "ca-app-pub-6369463662612526/43382109221",
+    "app_open_id": "ca-app-pub-6369463662612526/92391838191"
   },
   "ironsource": {
-    "enabled": true,
-    "banner_enabled": true,
-    "interstitial_enabled": true,
-    "app_key": "258f467d5"
+    "enabled": false,
+    "banner_enabled": false,
+    "interstitial_enabled": false,
+    "app_key": "16dbb63dd"
   },
   "display_rules": {
-    "show_banner_main": true,
-    "show_banner_reader": true,
-    "show_banner_maker": true,
-    "show_interstitial_on_click": true,
+    "show_banner_main": false,
+    "show_banner_reader": false,
+    "show_banner_maker": false,
+    "show_interstitial_on_click": false,
+    "show_app_open": false,
     "interstitial_click_count": 1
-  },
-  "version": 1,
-  "last_updated": "2026-03-16"
+  }
 }
