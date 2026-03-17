@@ -6,15 +6,19 @@
     "banner_enabled": true,
     "interstitial_enabled": true,
     "app_open_enabled": true,
-    "banner_id": "ca-app-pub-6369463662612526/4621483276",
-    "interstitial_id": "ca-app-pub-6369463662612526/4338210922",
-    "app_open_id": "ca-app-pub-6369463662612526/9239183819"
+    "banner_id": "ca-app-pub-6369463662612526/46214832761",
+    "interstitial_id": "ca-app-pub-6369463662612526/43382109221",
+    "app_open_id": "ca-app-pub-6369463662612526/92391838191"
   },
   "ironsource": {
     "enabled": true,
-    "banner_enabled": true,
     "interstitial_enabled": true,
     "app_key": "16dbb63dd"
+  },
+  "startapp": {
+    "enabled": true,
+    "banner_enabled": true,
+    "app_id": "202974047"
   },
   "display_rules": {
     "show_banner_main": true,
@@ -22,6 +26,8 @@
     "show_banner_maker": true,
     "show_interstitial_on_click": true,
     "show_app_open": true,
-    "interstitial_click_count": 3
-  }
+    "interstitial_click_count": 1
+  },
+  "version": 2,
+  "last_updated": "2026-03-17"
 }
