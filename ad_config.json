@@ -18,7 +18,7 @@
   "startapp": {
     "enabled": true,
     "banner_enabled": true,
-    "app_id": "202974047"
+    "app_id": ""
   },
   "display_rules": {
     "show_banner_main": true,
@@ -28,6 +28,6 @@
     "show_app_open": true,
     "interstitial_click_count": 1
   },
-  "version": 2,
+  "version": 5,
   "last_updated": "2026-03-17"
 }
