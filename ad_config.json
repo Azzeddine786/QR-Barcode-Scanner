@@ -1,6 +1,6 @@
 {
-  "ads_enabled": false,
-  "ad_priority": "admob",
+  "ads_enabled": true,
+  "ad_priority": "ironsource",
   "admob": {
     "enabled": false,
     "banner_enabled": false,
@@ -11,16 +11,16 @@
     "app_open_id": "ca-app-pub-6369463662612526/92391838191"
   },
   "ironsource": {
-    "enabled": false,
-    "banner_enabled": false,
-    "interstitial_enabled": false,
+    "enabled": true,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
     "app_key": "16dbb63dd"
   },
   "display_rules": {
-    "show_banner_main": false,
-    "show_banner_reader": false,
-    "show_banner_maker": false,
-    "show_interstitial_on_click": false,
+    "show_banner_main": true,
+    "show_banner_reader": true,
+    "show_banner_maker": true,
+    "show_interstitial_on_click": true,
     "show_app_open": false,
     "interstitial_click_count": 1
   }
