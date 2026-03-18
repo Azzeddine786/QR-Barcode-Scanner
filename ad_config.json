@@ -1,33 +1,38 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ad_priority": "admob",
+
   "admob": {
     "enabled": true,
-    "banner_enabled": false,
+    "banner_enabled": true,
     "interstitial_enabled": true,
-    "app_open_enabled": false,
+    "app_open_enabled": true,
     "admob_banner_id": "ca-app-pub-6369463662612526/4621483276",
     "interstitial_id": "ca-app-pub-6369463662612526/4338210922",
     "app_open_id": "ca-app-pub-6369463662612526/9239183819"
   },
+
   "ironsource": {
-    "enabled": false,
+    "enabled": true,
     "interstitial_enabled": true,
     "app_key": "16dbb63dd"
   },
+
   "startapp": {
-    "enabled": false,
-    "banner_enabled": false,
+    "enabled": true,
+    "banner_enabled": true,
     "app_id": "202974047"
   },
+
   "display_rules": {
     "show_banner_main": true,
     "show_banner_reader": true,
     "show_banner_maker": true,
     "show_interstitial_on_click": true,
     "show_app_open": true,
-    "interstitial_click_count": 1
+    "interstitial_click_count": 2
   },
-  "version": 5,
-  "last_updated": "2026-03-17"
+
+  "version": 6,
+  "last_updated": "2026-03-18"
 }
