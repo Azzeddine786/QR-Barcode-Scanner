@@ -30,7 +30,7 @@
     "show_banner_maker": true,
     "show_interstitial_on_click": true,
     "show_app_open": true,
-    "interstitial_click_count": 2
+    "interstitial_click_count": 1
   },
 
   "version": 6,
